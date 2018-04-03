@@ -1,0 +1,12 @@
+{
+    "name": "mix_trailer_1",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_cargill.json",
+            "credentialsFile": "flows_cargill_cred.json"
+        }
+    }
+}
